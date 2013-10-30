@@ -19,4 +19,4 @@ For GATE 2014 Preparation
 
 > <img src="https://raw.github.com/datachand/my-gate-2014-preparation/master/images/1383160388_calendar.png" width="15"> Wednesday, 30 October 2013
 
-- Books Received From FlipKart [http://flipkart.com](http://flipkart.com)
+- Books Received From [FlipKart](http://flipkart.com)
